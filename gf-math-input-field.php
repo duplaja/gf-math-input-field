@@ -8,6 +8,7 @@ Author: Dan Dulaney
 Author URI: https://dandulaney.com
 Text Domain: mathfieldaddon
 Domain Path: /languages
+GitHub Plugin URI: https://github.com/duplaja/gf-math-input-field
 
 ------------------------------------------------------------------------
 Copyright 2020 Dan Dulaney.
