@@ -17,9 +17,9 @@
 * Work on pretty display of equations in emails.
 
 ## Includes
-* Based off of the Gravity Forms (Simple Field Add-On Example Project)[https://github.com/richardW8k/simplefieldaddon], by (Richard Wawrzyniak)[https://github.com/richardW8k]
-* Latest compiled version of (MathQuill)[https://github.com/mathquill/mathquill]
-* Some of the Icons by (Freepik)[https://www.flaticon.com/authors/freepik] from (flaticon.com)[https://flaticon.com], free to use with attribution.
+* Based off of the Gravity Forms [Simple Field Add-On Example Project](https://github.com/richardW8k/simplefieldaddon), by [Richard Wawrzyniak](https://github.com/richardW8k)
+* Latest compiled version of [MathQuill](https://github.com/mathquill/mathquill)
+* Some of the Icons by [Freepik](https://www.flaticon.com/authors/freepik) from [flaticon.com](https://flaticon.com), free to use with attribution.
 
 ## Changelog
 
