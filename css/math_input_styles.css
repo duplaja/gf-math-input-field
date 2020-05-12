@@ -1,0 +1,47 @@
+/* placeholder for css */
+.gform_wrapper .ginput_container span.math-input {
+    min-width: 150px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.gform_wrapper .ginput_container span.math-input,
+.gform_wrapper .ginput_container span.math-input span {
+    display:inline-block;   
+    margin-bottom:0px;    
+}
+
+.gform_wrapper .ginput_container span.math-input span.mq-numerator,
+.gform_wrapper .ginput_container span.math-input span.mq-denominator {
+    display:block;
+}
+
+.gform_wrapper .ginput_container sup.mq-nthroot {
+    padding-top:5px;
+    top: -0.3em;
+}
+
+.gform_wrapper .ginput_container button.btn-calc-math {
+    height:40px;
+    width:40px;
+    padding: 10px 10px 10px 10px!important;
+    margin-right:5px;
+    margin-bottom:5px;
+    font-weight:800;
+}
+.gform_wrapper .ginput_container button.btn-calc-math img {
+    height:100%;
+    width:auto;
+    margin-right:auto;
+    margin-left:auto;
+}
+
+.gform_wrapper var {
+    background-color:rgba(0, 0, 0, 0);
+}
+
+.gform_wrapper .gfield_description {
+    font-size:16px;
+}
